@@ -9,6 +9,11 @@ input{
     background: transparent;
     border: none;}
 #two{
-    background-color: violet;
+    background-color: rgb(131, 37, 155);
     
+}
+#sddd{
+    border: 3px solid white;
+    margin-right: 1000px;
+    padding: 10px;
 }
